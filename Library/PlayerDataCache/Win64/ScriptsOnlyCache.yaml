@@ -936,4 +936,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level1.unity
   - Assets/Scenes/Level2.unity
   - Assets/Scenes/Level3.unity
-  playerPath: E:/UnityProjects/Up/Game/Up.exe
+  playerPath: E:/UnityProjects/Up/Up/Game/Up.exe

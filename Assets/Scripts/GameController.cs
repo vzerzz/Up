@@ -79,4 +79,9 @@ public class GameController : MonoBehaviour
         pauseBtn.SetActive(true);
     }
 
+    public void OnButtonClickHome()
+    {
+        SceneManager.LoadScene("Main");
+    }
+
 }

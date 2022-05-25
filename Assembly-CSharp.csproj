@@ -64,7 +64,7 @@
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\LightCreat.cs" />
     <Compile Include="Assets\Scripts\CabinController.cs" />
-    <Compile Include="Assets\BGM.cs" />
+    <Compile Include="Assets\Scripts\BGM.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Texture\TextMesh Pro\Shaders\TMPro.cginc" />
